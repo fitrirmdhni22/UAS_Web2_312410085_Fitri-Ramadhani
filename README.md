@@ -150,7 +150,7 @@ Karena frontend murni CDN (tanpa build tool/Node.js), cukup:
 
 ## 🔗 Link Demo & Video Presentasi
 
-> ✏️ **[ISI DI SINI]** Link demo (jika di-deploy, contoh: Netlify/Vercel untuk frontend, Railway/Niagahoster untuk backend)
+> ✏️ **fascinating-cuchufli-7cc9fd.netlify.app** Link demo
 
 > ✏️ **(https://youtu.be/NKF5G8mWx2M?si=hw48DoZy_s-aUQFo)** Link video presentasi YouTube
 
