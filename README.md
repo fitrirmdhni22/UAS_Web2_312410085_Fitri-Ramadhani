@@ -152,6 +152,6 @@ Karena frontend murni CDN (tanpa build tool/Node.js), cukup:
 
 > ✏️ **[ISI DI SINI]** Link demo (jika di-deploy, contoh: Netlify/Vercel untuk frontend, Railway/Niagahoster untuk backend)
 
-> ✏️ **[ISI DI SINI]** Link video presentasi YouTube (maks. 7 menit, wajah presenter, diawali perkenalan)
+> ✏️ **(https://youtu.be/NKF5G8mWx2M?si=hw48DoZy_s-aUQFo)** Link video presentasi YouTube
 
 ---
